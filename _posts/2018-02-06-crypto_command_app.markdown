@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Crypto Command App!"
-date:       2018-02-07 02:15:20 +0000
+date:       2018-02-06 21:15:21 -0500
 permalink:  crypto_command_app
 ---
 
@@ -41,6 +41,7 @@ Every time I re-explained a problem or googled an idea, I got .008% better at de
 
 
 
+Overall, this project has been amazing for my growth as a developer. I certianly struggled here and there, but am proud of the result and can't wait to start the next adventure. 
 
-Overall, this project has been amazing for my growth as a developer. I certianly struggled here and there, but am proud of the result and can't wait to start my next adventure. 
+Watch my demo video here: https://youtu.be/35hAKFp-KH0
 
