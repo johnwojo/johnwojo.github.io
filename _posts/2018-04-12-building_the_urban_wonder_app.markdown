@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building the Urban Wonder App "
-date:       2018-04-12 15:57:42 +0000
+date:       2018-04-12 11:57:43 -0400
 permalink:  building_the_urban_wonder_app
 ---
 
@@ -15,7 +15,7 @@ Urban Wonder is designed to operate like a travel planner. A user can sign up, l
 I was reminded of something very important during the production of this app. The default state of a program is broken. We learned at Flatiron that things always start off  by not working. If it worked perfectly, a solution (and a programmer) wouldn't be necesary! So we must welcome errors - they guide us to creating something worthwhile.
 
 During this project, I kept hitting walls. I would have an issue with the relationship between two objects, and it seemed that no matter what I did, the problem persisted in one way or another. Each time, I would Google, ask questions, experiment with the code, and finally overcome the obstacle. However, once I solved that issue, another would appear. At times, it felt like trying to untangle Christmas Tree lights. Pulling on one cord only caused a bigger knot in another area! This was increasingly frustrating until I remembered what they taught us in class. Brokenness is the default. That's the point! We, as programmers, are working to solve problems - not just to sit around and enjoy properly working software. We are creating something - and art is often messy.
-**
-Brokenness should be expected. It's an inescapable part of programming (and life!) And the sooner I remember to expect encounters with brokenness, the more prepared I'll be to face problems with confidence and hope.
-**
+
+**Brokenness should be expected. It's an inescapable part of programming (and life!) And the sooner I remember to expect encounters with brokenness, the more prepared I'll be to face problems with confidence and hope.**
+
 
