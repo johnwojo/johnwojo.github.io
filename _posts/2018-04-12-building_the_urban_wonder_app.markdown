@@ -16,6 +16,6 @@ I was reminded of something very important during the production of this app. Th
 
 During this project, I kept hitting walls. I would have an issue with the relationship between two objects, and it seemed that no matter what I did, the problem persisted in one way or another. Each time, I would Google, ask questions, experiment with the code, and finally overcome the obstacle. However, once I solved that issue, another would appear. At times, it felt like trying to untangle Christmas Tree lights. Pulling on one cord only caused a bigger knot in another area! This was increasingly frustrating until I remembered what they taught us in class. Brokenness is the default. That's the point! We, as programmers, are working to solve problems - not just to sit around and enjoy properly working software. We are creating something - and art is often messy.
 
-**Brokenness should be expected. It's an inescapable part of programming (and life!) And the sooner I remember to expect encounters with brokenness, the more prepared I'll be to face problems with confidence and hope.**
+**Brokenness should be expected. It's an inescapable part of programming (and life!) And the sooner we remember to expect encounters with brokenness, the more prepared we can become to face problems with confidence and hope.**
 
 
