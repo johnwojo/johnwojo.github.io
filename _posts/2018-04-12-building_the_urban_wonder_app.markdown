@@ -19,6 +19,5 @@ During this project, I kept hitting walls. I would have an issue with the relati
 **Brokenness should be expected. It's an inescapable part of programming (and life!) And the sooner we remember to expect encounters with brokenness, the more prepared we can become to face problems with confidence and hope.**
 
 
-Check out the demo video for Urban Wonder here: https://youtu.be/tCTDqVNhWnw
-
+Check out the demo video for Urban Wonder here: <a href="https://youtu.be/tCTDqVNhWnw">
 
