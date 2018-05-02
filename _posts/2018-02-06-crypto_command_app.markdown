@@ -43,6 +43,5 @@ Every time I re-explained a problem or googled an idea, I got .008% better at de
 
 Overall, this project has been amazing for my growth as a developer. I certianly struggled here and there, but am proud of the result and can't wait to start the next adventure. 
 
-Watch my demo video here: https://youtu.be/35hAKFp-KH0
-[here: ](https://youtu.be/35hAKFp-KH0)
+Watch my demo video [here: ](https://youtu.be/35hAKFp-KH0)
 
