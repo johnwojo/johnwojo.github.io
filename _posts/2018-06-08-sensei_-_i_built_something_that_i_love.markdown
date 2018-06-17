@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Sensei - I built something that I love! "
-date:       2018-06-08 22:07:51 +0000
+date:       2018-06-08 18:07:52 -0400
 permalink:  sensei_-_i_built_something_that_i_love
 ---
 
 
 
 
-When I started programming, a seasoned engineer taught me something profound. 
+When I started programming, a seasoned engineer taught me something profound: 
 
 "When you create a new program, you are creating a universe." 
 
