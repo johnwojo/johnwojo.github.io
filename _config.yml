@@ -1,15 +1,14 @@
 # Site settings
+author: John Wojciechowski
 title: Urban Wonder
 header-img: img/home-bg.png
 email: jwojo13@gmail.com
-copyright_name: johnwojo
+copyright_name: John Wojciechowski
 description: > # this means to ignore newlines until "baseurl:"
   innovation + imagination
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: wojo_nyc
 github_username:  johnwojo
-learn_profile: johnwojo
-email_username: jwojo13@gmail.com
 
 # Build settings
 markdown: kramdown
