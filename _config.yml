@@ -7,7 +7,7 @@ copyright_name: John Wojciechowski
 description: > # this means to ignore newlines until "baseurl:"
   innovation + imagination
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: wojo_nyc
+twitter_username: 
 github_username:  johnwojo
 
 # Build settings
