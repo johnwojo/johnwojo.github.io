@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: jwojo13@gmail.com
 copyright_name: John Wojciechowski
 description: > # this means to ignore newlines until "baseurl:"
-  innovation + imagination
+  innovation & imagination
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  johnwojo
