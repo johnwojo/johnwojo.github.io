@@ -22,41 +22,51 @@ And now my next big step is learning React. This post is a quick introduction to
 
 React has an unusually friendly and helpful community being built online. I'm including a few links to the Twitter accounts I've found to be the most helpful. 
 
-[React JS](https://twitter.com/reactjs)
-[React Native](https://twitter.com/reactnative)
-[Reactiflux](https://twitter.com/reactiflux)
-[GatsbyJS](https://twitter.com/gatsbyjs)
+- [React JS](https://twitter.com/reactjs)
+
+- [React Native](https://twitter.com/reactnative)
+
+- [Reactiflux](https://twitter.com/reactiflux)
+
+- [GatsbyJS](https://twitter.com/gatsbyjs)
 
 
-**2.) Reactors (Is that what React devs are called?) have created lots of resources.
-**
+**2.) Reactors (Is that what React devs are called?) have created lots of resources.**
 
 Below are a few resources I've been making my way through.
 
-https://learn.co/lessons/react-jsx-lab
-https://www.udemy.com/react-redux/
-https://frontarm.com/
-https://reach.tech/
-https://designcode.io/react/
-https://www.fullstackreact.com/
-https://roadtoreact.com/
-https://tylermcginnis.com/courses/
-https://egghead.io/courses/the-beginner-s-guide-to-react
+- [Learn](https://learn.co/lessons/react-jsx-lab)
+
+- [Udemy](https://www.udemy.com/react-redux/)
+
+- [FrontArm](https://frontarm.com/)
+
+- [Reach](https://reach.tech/)
+
+- [Design Code](https://designcode.io/react/)
+
+- [Full Stack React](https://www.fullstackreact.com/)
+
+- [Road to React](https://roadtoreact.com/)
+
+- [Tyler McGinnis](https://tylermcginnis.com/courses/)
+
+- [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react)
+
 
 (I learned about most of these resources by following Gabe Greenberg on Twitter: https://twitter.com/gabe_g2i)
 
 
-**3.) React makes programs is an incredibly helpful and well-maintained JavaScript library for building user interfaces.
-**
+**3.) React makes programs is an incredibly helpful and well-maintained JavaScript library for building user interfaces.**
 
 React simplifies the developer's life by making available a multitude of programming superpowers. And, according to a number of sources that I've read, it is taking over frontend developement.
 
-https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
+[Check out this short read.](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 
 
 I have been very encouraged to see a LOT of social activity regarding React. Even though the programming world can seem very inviting, there is still a ton of work to do in order to be successful, to learn the craft, and to build community. Getting your first programming job can be daunting (I know, because that's what I'm working towards right now!) without the right resources. Where do I learn? WHAT do I learn? From my experience over the last year, React seems like the sort of community that can positively engage both the initiate and the seasoned developer. 
 
-If you want to break into React, I suggest you start with the resources I've listed above. They are, as can be expected with React, extremely user friendly.  If you want a friend in the React world, find me on Twitter and let's continue learning together: https://twitter.com/wojo_NYC
+If you want to break into React, I suggest you start with the resources I've listed above. They are, as can be expected with React, extremely user friendly.  If you want a friend in the React world, find me on Twitter and let's [continue learning together!](https://twitter.com/wojo_NYC).
 
 
 
