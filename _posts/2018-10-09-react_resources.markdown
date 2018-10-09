@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "REACT Resources"
-date:       2018-10-09 18:39:23 +0000
+date:       2018-10-09 14:39:24 -0400
 permalink:  react_resources
 ---
 
@@ -23,7 +23,7 @@ And now my next big step is learning React. This post is a quick introduction to
 
 React has an unusually friendly and helpful community being built online. I'm including a few links to the Twitter accounts I've found to be the most helpful. 
 
-https://twitter.com/reactjs
+[](https://twitter.com/reactjs)
 https://twitter.com/reactnative
 https://twitter.com/reactiflux
 https://twitter.com/gatsbyjs
