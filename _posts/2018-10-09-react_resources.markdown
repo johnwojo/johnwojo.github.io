@@ -18,8 +18,7 @@ Ruby. HTML. ORM. CSS. JavaSript. MVC. Rails. jQuery.
 
 And now my next big step is learning React. This post is a quick introduction to some things I've already learned. 
 
-**1.) React has a THRIVING online community. 
-**
+**1.) React has a THRIVING online community.**
 
 React has an unusually friendly and helpful community being built online. I'm including a few links to the Twitter accounts I've found to be the most helpful. 
 
