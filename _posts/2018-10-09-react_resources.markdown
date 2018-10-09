@@ -23,10 +23,10 @@ And now my next big step is learning React. This post is a quick introduction to
 
 React has an unusually friendly and helpful community being built online. I'm including a few links to the Twitter accounts I've found to be the most helpful. 
 
-[](https://twitter.com/reactjs)
-https://twitter.com/reactnative
-https://twitter.com/reactiflux
-https://twitter.com/gatsbyjs
+[React JS](https://twitter.com/reactjs)
+[React Native](https://twitter.com/reactnative)
+[Reactiflux](https://twitter.com/reactiflux)
+[GatsbyJS](https://twitter.com/gatsbyjs)
 
 
 **2.) Reactors (Is that what React devs are called?) have created lots of resources.
