@@ -87,7 +87,7 @@ I love to read. It brings an escape for me that few other things can. Go fly off
 You will work better when you remember why you're doing what you're doing. Are you trying to solve an important problem? Are you trying to grow yourself? Provide for your family? Get humans to Mars before we destroy Earth and all her inhabitants? Go back to this. Remember it. And then do number 10. 
 
 
-**10. CODE.** 
+**10. CODE. **
 
 Listen, as much as breaks and breathing and reading are important, the code isn't going to write itself. The best way to learn to code is to code. So, go back to the problem and attack. Try it from different angles, read how other people have accomplished what you're trying to do, obsess over Git repositories and Stack Overflow ideas. But, however you do it, go code. 
 
@@ -122,7 +122,7 @@ Eating as a defense mechanism against anger or difficulty is never good. It beco
 
 
 
-**3.) Social media.** 
+**3.) Social media. **
 
 I love Twitter. Instagram is nice too. But jumping onto social media when you're mad at a coding problem will typically not solve the issue. Of course it can be helpful in doses, but I try to avoid using social media when I'm grumpy. Too much dopamine. 
 
@@ -132,7 +132,7 @@ I love Twitter. Instagram is nice too. But jumping onto social media when you're
 This is a problem many of us must combat. Complaining solves nothing! Of course some talking it out can be very helpful. I love working problems out with friends or whiteboarding strategy. But 'I can't believe they gave me this assignment' or 'This language is ridiculous' over and over again really doesn't help.
 
 
-**5.) Give up altogether.** 
+**5.) Give up altogether. **
 
 Don't give up. Do the ten things in the first half of this post... and get back in the ring. You got this. Problems can be solved. You are smarter than you think and, even if you don't know how to solve the problem, there are solutions and help available to everyone. If you have a problem you want help with and can't find good resources, reach out to me on Twitter and we'll make a party out of it. 
 
