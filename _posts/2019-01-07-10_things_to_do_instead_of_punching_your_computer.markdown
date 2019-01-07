@@ -20,7 +20,8 @@ If you're a programmer (and anything like me), you have probably (from time to t
 Whatever the reasoning behind your current burst of flame hair (see GIF below), please know that you are not alone. All programmers (or at least the ones I've talked to) have this moment. Even if you're not an easily-angered person, you're bound to hit obstacles that make you want to pull out your hair. If you haven't gotten there yet, just wait. Your time will probably be here soon.
 
 
-![Anger](https://tenor.com/wgNo.gif)
+<div class="tenor-gif-embed" data-postid="5268712" data-share-method="host" data-width="100%" data-aspect-ratio="1.8043478260869565"><a href="https://tenor.com/view/insideout-anger-inside-out-gif-5268712">Insideout Anger GIF</a> from <a href="https://tenor.com/search/insideout-gifs">Insideout GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 I'd like to offer a few potential solutions. If you have more ideas, make sure to tweet them to me on [Twitter](http://www.twitter.com/wojo_nyc) and I'll add your suggestions to the bottom of this post! 
 
@@ -56,7 +57,6 @@ There should be no lone rangers in coding. In an increasingly connected world, i
 **4. Look for help online.**
 
 If you're a programmer and you haven't learned to Google yet, it's time. Google is your friend. Jump onto Twitter, join a slack or discord channel... go to StackOverflow, LinkedIn, a coding Facebook group.. look for the answers. They're out there.  Let others help. 
-
 
 
 **5. Learn something new. **
