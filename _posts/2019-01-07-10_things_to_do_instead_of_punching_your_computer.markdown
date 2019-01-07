@@ -59,7 +59,7 @@ There should be no lone rangers in coding. In an increasingly connected world, i
 If you're a programmer and you haven't learned to Google yet, it's time. Google is your friend. Jump onto Twitter, join a slack or discord channel... go to StackOverflow, LinkedIn, a coding Facebook group.. look for the answers. They're out there.  Let others help. 
 
 
-**5. Learn something new. **
+**5. Learn something new.**
 
 I like this one. Sometimes the best thing you can do when learning JavaScript is to NOT learn JavaScript. Go learn how to speak Spanish. Watch a tutorial video on how to make Pixel Art. Read a chapter from a biography. Learn things that aren't coding for a little bit, so that when you return to it, ideas are fresh and your mind is fertile.
 
