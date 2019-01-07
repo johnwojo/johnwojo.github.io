@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "10 Things to Do INSTEAD of Punching Your Computer"
-date:       2019-01-07 21:44:03 +0000
+date:       2019-01-07 16:44:04 -0500
 permalink:  10_things_to_do_instead_of_punching_your_computer
 ---
 
@@ -31,7 +31,7 @@ So, when you're struggling and want to break the screen into a million pieces wi
 # DOs 
 
 
-**1. Breathe. **
+**1. Breathe.**
 
 Okay, this one is easy. Take several (5-10) deep breaths. I'm no expert on this, but I've really benefitted from learning to breathe more deeply. Your body is probably all tensed up from thinking about all the ways you might be able to destroy your laptop. So... give yourself a second. Rome wasn't built in a day. Neither were any of the great apps we use every day. Good things take time. Stop working and spend a little time breathing.   
 
@@ -39,7 +39,7 @@ If you need help, here's a short helpful breathing [video](https://www.youtube.c
 
 
 
-**2. Go on a walk. **
+**2. Go on a walk.**
 
 This one is similar to number one. Go walk. Take a break. Don't walk fast. Stroll. You don't need to go anywhere specific. Allow yourself to think about your surroundings. Don't pace. Just walk.
 
@@ -53,7 +53,7 @@ There should be no lone rangers in coding. In an increasingly connected world, i
 
 
 
-**4. Look for help online. **
+**4. Look for help online.**
 
 If you're a programmer and you haven't learned to Google yet, it's time. Google is your friend. Jump onto Twitter, join a slack or discord channel... go to StackOverflow, LinkedIn, a coding Facebook group.. look for the answers. They're out there.  Let others help. 
 
@@ -71,7 +71,7 @@ Okay, this one seems odd... but it works. I keep a little Ninja Turtle in my com
 Programming languages are not the only way to abstract away a concept... you can also use whatever language you speak. Vocalizing the idea helps you summarize what you're trying to do.  Writing a blog post accomplishes much of the same.
 
 
-**7. Sleep on it. **
+**7. Sleep on it.**
 
 Stop, drop, and snooze. If it's an appropriate time and place to sleep, grab some zzz's. I cannot tell you the number of times I have dreamt an answer or woke up with it in my mind.
 
@@ -82,7 +82,7 @@ Stop, drop, and snooze. If it's an appropriate time and place to sleep, grab som
 I love to read. It brings an escape for me that few other things can. Go fly off into another world. Or read something about how computers work. I wouldn't suggest scrolling on social media (more about that later), but go crack open a book, graphic novel, or medium post. Read. Again, it brings the mind back to the non-digital.
 
 
-**9. Remember why you're coding. **
+**9. Remember why you're coding.**
 
 You will work better when you remember why you're doing what you're doing. Are you trying to solve an important problem? Are you trying to grow yourself? Provide for your family? Get humans to Mars before we destroy Earth and all her inhabitants? Go back to this. Remember it. And then do number 10. 
 
@@ -107,7 +107,7 @@ I love to throw this into most conversations. Counseling is amazing. If you're s
 And now, before this post ends, I want to give you some quick **DON'Ts**. These may not be don'ts for everyone. But they are suggestions that I'm working to get out of my rhythms. 
 
 
-**1.)  Negative self-talk. **
+**1.)  Negative self-talk.**
 
 The first thing I'm tempted to think when I can't solve a problem? "I'm not good at this." That's not true! I have a friend who taught me a lesson a few years ago. (Thanks Shannon!) She is a teacher in NYC and taught me that children often believe they 'aren't good at' Math or some other subject. She teaches them, using the growth mindset, that this is not true. 
 
@@ -116,7 +116,7 @@ The first thing I'm tempted to think when I can't solve a problem? "I'm not good
 This is the **key** to learning to program. 
 
 
-**2.) Eat. **
+**2.) Eat.**
 
 Eating as a defense mechanism against anger or difficulty is never good. It becomes sort of automatic. It's easy to feel frustration and immediately run to the kitchen for comfort. I've done this way too often and it's a bad idea.  'Eating our feelings' is an easy way for programming to cause a lot of unhealth and pain in life. 
 
