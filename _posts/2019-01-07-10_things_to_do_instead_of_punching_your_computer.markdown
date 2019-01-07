@@ -20,7 +20,7 @@ If you're a programmer (and anything like me), you have probably (from time to t
 Whatever the reasoning behind your current burst of flame hair (see GIF below), please know that you are not alone. All programmers (or at least the ones I've talked to) have this moment. Even if you're not an easily-angered person, you're bound to hit obstacles that make you want to pull out your hair. If you haven't gotten there yet, just wait. Your time will probably be here soon.
 
 
-![](https://tenor.com/wgNo.gif)
+![Anger](https://tenor.com/wgNo.gif)
 
 I'd like to offer a few potential solutions. If you have more ideas, make sure to tweet them to me on [Twitter](http://www.twitter.com/wojo_nyc) and I'll add your suggestions to the bottom of this post! 
 
